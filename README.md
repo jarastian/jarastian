@@ -6,15 +6,15 @@ Soy Sebastian Jaramillo, Ingeniero y entusiasta del **análisis de datos** y **T
 <br/>
 
 <div align="center">
-    <a href="https://github.com/SkalskiP">
+    <a href="https://jarastian.github.io/portfolio/">
         <img src="https://github.com/jarastian/jarastian/blob/main/icon/github.png" width="4%"/>
     </a>
     <img src="https://github.com/jarastian/jarastian/blob/main/icon/transparent.png" width="3%"/>
-    <a href="https://twitter.com/skalskip92">
+    <a href="https://www.linkedin.com/in/jarastian/">
         <img src="https://github.com/jarastian/jarastian/blob/main/icon/linkedin.png" width="4%"/>
     </a>
     <img src="https://github.com/jarastian/jarastian/blob/main/icon/transparent.png" width="3%"/>	
-    <a href="https://linkedin.com/in/piotr-skalski-36b5b4122">
+    <a href="https://twitter.com/jarastian">
         <img src="https://github.com/jarastian/jarastian/blob/main/icon/twitter.png" width="4%"/>
     </a>
   
